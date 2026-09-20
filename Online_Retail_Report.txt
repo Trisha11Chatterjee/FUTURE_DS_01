@@ -1,0 +1,34 @@
+ONLINE RETAIL SALES ANALYSIS
+================================================================================
+
+DATA PRESERVATION
+--------------------------------------------------------------------------------
+Original records: 541,909
+Records deleted: 0
+All original records were retained.
+
+KEY PERFORMANCE INDICATORS
+--------------------------------------------------------------------------------
+Total Revenue: £10,666,684.54
+Total Orders: 19,960
+Unique Customers: 4,338
+Countries: 38
+Average Order Value: £534.40
+
+BUSINESS INSIGHTS
+--------------------------------------------------------------------------------
+1. Peak Sales Month: Unknown generated £10,666,684.54.
+2. Top Product: DOTCOM POSTAGE generated £206,248.77.
+3. Top Country: United Kingdom generated £9,025,222.08.
+4. Q4 Contribution: Q4 contributed 0.00% of total revenue.
+5. Average Order Value: The average order value was £534.40.
+6. Data Preservation: All 541,909 original records were retained.
+
+BUSINESS RECOMMENDATIONS
+--------------------------------------------------------------------------------
+1. Seasonal Planning: Prepare inventory and marketing campaigns before high-revenue periods.
+2. Product Management: Monitor high-revenue products for stock availability and demand changes.
+3. Customer Retention: Identify repeat and high-value customers for targeted campaigns.
+4. Geographic Analysis: Compare markets by revenue, orders and customer activity.
+5. Return Monitoring: Track return transactions separately to understand their effect on sales.
+6. RFM Analysis: Perform Recency, Frequency and Monetary segmentation.
