@@ -1,0 +1,10 @@
+Metric,Value
+Original Records,541909
+Records Retained,541909
+Records Deleted,0
+Records Used for Sales Analysis,530104
+Return Transactions,10624
+Invalid Quantity,0
+Invalid Price,0
+Invalid Dates,541909
+Missing CustomerID,135080
